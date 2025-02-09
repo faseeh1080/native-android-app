@@ -3,7 +3,7 @@
 - IDE: **Android Studio**
 - Language: **Kotlin**
 
-##Android Studio Details:
+## Android Studio Details
 
 - Android Studio Ladybug Feature Drop | 2024.2.2
 - Build #AI-242.23726.103.2422.12816248, built on December 18, 2024
